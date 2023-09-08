@@ -4,6 +4,6 @@ This repository contains all the Data Exploration on Bike buyers data Using Exce
 
 Steps for Data Exploration mainly include -
 
-      * Data Cleaning
-      * Making charts
-      * Building Dashboard
+* Data Cleaning
+* Making charts
+* Building Dashboard
