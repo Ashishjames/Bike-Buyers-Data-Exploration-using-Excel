@@ -7,3 +7,7 @@ Steps for Data Exploration mainly include -
 * Data Cleaning
 * Making charts
 * Building Dashboard
+
+# DASHBOARD
+
+![Dashboard](Dashboard.JPG)
